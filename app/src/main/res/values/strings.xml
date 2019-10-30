@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ShortUrl</string>
+    <string name="img_description">Image Descirption</string>
+    <string name="write_url_here">Write URL here</string>
+    <string name="create_shorturl">Create ShortURL</string>
+    <string name="title_result">Result</string>
+    <string name="result">Shorturl result here</string>
+    <string name="loading_status">Loading...</string>
+</resources>
